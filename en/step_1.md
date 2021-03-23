@@ -1,6 +1,8 @@
 ## Introduction
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+In this project, you’ll learn how to connect several different inputs to your GPIO pins to create a drum kit, or other musical instrument of your choice.
+
+You’ll connect several ‘buttons’ to your Pi to act as inputs that will trigger sounds, then design a physical instrument which you can use and play!
 
 ### What you will make
 
@@ -22,17 +24,22 @@ title: What you will need
 ---
 ### Hardware
 
-+ A computer or tablet capable of running Scratch 3
++ Raspberry Pi
++ At least 5x f-f jumper wires
++ Aluminium foil
++ Strong tape
++ Cardboard (or other drum-shaped items you can cover with foil)
++ Scissors or Craft Knife
++ Glue
+
+#### Optional:
++ Markers
++ Wire spool
+
 
 ### Software
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
++ Scratch 3 Desktop Version
 
 --- /collapse ---
 
@@ -41,9 +48,9 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
++ Connecting multiple inputs to your Raspberry Pi
++ Creating simple buttons using household items
++ Link inputs to trigger on-screen events and sounds
 
 --- /collapse ---
 
@@ -52,8 +59,8 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
+You can download the completed project [here](http://rpf.io/p/en/drumkit-get){:target="_blank"}.
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/scratchpc-musical-instrument/print){:target="_blank"}.
 
 --- /collapse ---
