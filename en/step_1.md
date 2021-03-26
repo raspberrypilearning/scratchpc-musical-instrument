@@ -7,11 +7,14 @@ You’ll connect several ‘buttons’ to your Pi to act as inputs that will tri
 ### What you will make
 
 --- no-print ---
-Add instructions for interacting with the embedded content here.
+Here are some other musical instruments to give you inspiration:
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+'Scratchivarius' Violin:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xlz1zBw-rSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Raspberry Pi Guitar Hero:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1OzwwUXGtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 --- /no-print ---
 
 --- print-only ---
