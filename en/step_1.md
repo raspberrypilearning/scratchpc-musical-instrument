@@ -22,7 +22,7 @@ In this example the buttons on the guitar's neck choose the note, and touching t
 --- /no-print ---
 
 --- print-only ---
-![Completed drumkit project](images/drumkit-complete.png)
+![Completed drumkit project](images/drumkit-complete.jpgxcvbn)
 --- /print-only ---
 
 --- collapse ---
