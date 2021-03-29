@@ -7,7 +7,7 @@ In this example, I have connected the drums to Pins 2,3,4,14 and 15 as they are 
 
 --- task ---
 Take each one of the jumper cables connected to your instrument and attach them to your Pi using the GPIO pins. Use the pinout diagram here:
-[The Raspberry pi pinout shows the forty GPIO pins laid out with the odd numbered pins on the left and even pins on the right.](image/URL.jpg)
+[The Raspberry pi pinout shows the forty GPIO pins laid out with the odd numbered pins on the left and even pins on the right.](image/GPIO-Pinout-Diagram-2.png)
 --- /task ---
 
 Now that your instrument is wired up to the Pi, we need to write some code to make it work. The most basic version of the instrument is very easy to program, allowing you lots of options for customizing what happens on screen and the sounds your instrument will make.
