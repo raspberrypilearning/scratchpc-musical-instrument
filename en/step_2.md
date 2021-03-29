@@ -29,8 +29,6 @@ To make my drumkit, I used some simple items I found around the workshop and jus
 
 Once the instrument body is made, you will need to add foil contacts to it for the player to 'play' the instrument. One way is to use small pieces of foil which you glue onto the instrument in the right places. A drumkit will need drumsticks as well - here you can see how I wrapped pencils in foil and taped them up, making sure the wire is touching a good amount of the foil.
 
-[Wrapping simple home items in aluminium foil and adding a wire taped to the metallic surface will provide a good contact for a drumkit](image URL)
-
 --- task ---
 Take each of your f-f jumper cables and remove *one* of the connectors by pulling it off the end. It might take a little strength to manage, but don’t worry - we’re going to use this exposed end to attach to your instrument’s contacts using tape. 
 --- /task ---
