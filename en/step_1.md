@@ -39,7 +39,7 @@ title: What you will need
 + Aluminium foil
 + Strong tape
 + Cardboard (or other drum-shaped items you can cover with foil)
-+ Scissors or Craft Knife
++ Scissors or Craft Knife (get adult permission to use sharp tools!)
 + Glue
 
 #### Optional:
