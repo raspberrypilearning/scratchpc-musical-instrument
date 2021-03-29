@@ -8,6 +8,12 @@ You’ll connect several ‘buttons’ to your Pi to act as inputs that will tri
 
 A musical instrument can be anything that takes a user's input and turns it into sounds. You could make anything at all that does this! Consider all of the musical instruments you know and think about how you might copy the way they work using simple inputs.
 
+--- print-only ---
+This is what a finished drum kit looks like!
+
+![Completed drumkit project](images/drumkit-complete.jpg)
+--- /print-only ---
+
 --- no-print ---
 Here are some other musical instruments to give you inspiration:
 
@@ -21,9 +27,6 @@ In this example the buttons on the guitar's neck choose the note, and touching t
 
 --- /no-print ---
 
---- print-only ---
-![Completed drumkit project](images/drumkit-complete.jpg)
---- /print-only ---
 
 --- collapse ---
 ---
