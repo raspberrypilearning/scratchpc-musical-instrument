@@ -3,12 +3,12 @@
 Got to the end of the project but still want to do more? 
 
 How about:
-+ Adding some on screen actions when a note sounds
-+ Create instructions to flash on screen and learn simple songs
-+ Make another instrument and start a band!
++ Adding some on-screen actions when a note sounds
++ Creating instructions to flash on the screen and learn simple songs
++ Making another instrument and starting a band!
 
 
-If you are following the [Scratch Physical Computing](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [Interactive Book](https://projects.raspberrypi.org/en/projects/scratchpc-interactive-book) project. In this project, you will make a (add description here).
+If you are following the [Scratch Physical Computing 1](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [Interactive Book](https://projects.raspberrypi.org/en/projects/scratchpc-interactive-book) project. In this project, you will make a (add description here).
 
 ![ProjectName project](images/projectname-project.png)
 
