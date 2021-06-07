@@ -4,10 +4,10 @@ By the end of this step, you will have designed and built your instrument's phys
 
 The first step in making a musical instrument is to think about what kind of instrument you’d like to make, and what is possible. It’s important to consider **how** your instrument will be played to determine whether it will work or not.
 
-Your instrument could be based on 'buttons' like the ones you used in the challenge projects; while you might use actual buttons, you could also use any sort of conductive contacts that will close a circuit (like two pieces of aluminium foil). 
+Your instrument could be based on 'buttons' like the ones you used in the challenge projects; although you might use actual buttons, you could also use any sort of conductive contacts that will close a circuit (like two pieces of aluminium foil). 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A really neat way to make a lot of buttons that are all interactive is to use whatever the player uses (for example, a bow, pick, or drumsticks) as the **common ground** for all the circuits. That way, whatever contacts they touch, they will be closing an open circuit and triggering the set event. Even better: you will only need to wire up one ground pin (maybe two) for your whole project, minimising the number of wires you’ll need to mess about with!
+A really neat way to make a lot of buttons that are all interactive is to use whatever the player uses (for example, a bow, pick, or drumstick) as the **common ground** for all the circuits. That way, whatever contacts they touch, they will be closing an open circuit and triggering the set event. Even better: you will only need to wire up one ground pin (maybe two) for your whole project, minimising the number of wires you’ll need to mess about with!
 </p>
 
 In this example, I’ll be making a drum kit. I chose a drum kit because it’s really easy to have the drumsticks as the ground contacts, which the player uses to make the sounds. That way, whenever a drum — any drum — is touched with the drumstick, that ciruit will be closed and the drum sound triggered. You can make whatever instrument you like, but you will need to consider how your player will close the contacts or press the buttons. (Using actual buttons like the ones you can get from electronics shops might be a better option for instruments like pianos or guitars.)
@@ -23,11 +23,11 @@ In the example drum kit, there is a kick drum, a floor tom, a snare drum, and a 
 --- task ---
 Look at the materials you have available, and work out how you will create the physical parts of your instrument. You might want to cut a shape out of cardboard, or use existing items and stick them together to make the body of your instrument. 
 
-To make my drum kit, I used some simple items I found around the workshop and just covered them in foil. For the guitar and violin, I used some old packing foam I had lying around and some conductive thread left over from another project. Be creative in recycling materials for your instrument!
+To make my drum kit, I used some simple items I found in the workshop and just covered them in foil. For the guitar and violin, I used some old packing foam I had lying around and some conductive thread left over from another project. Be creative in recycling materials for your instrument!
 ![Collect all the items you will use to make your drumkit.](images/materials.jpg)
 --- /task ---
 
-Once the instrument body is made, you will need to add foil contacts to it for the player to 'play' the instrument. One way is to use small pieces of foil that you glue onto the instrument in the right places. A drum kit will need drumsticks as well. Below, you can see how I wrapped pencils in foil and taped them up, making sure the wire is touching a good amount of the foil.
+Once the instrument body is made, you will need to add foil contacts to it to enable the player to 'play' the instrument. One way is to use small pieces of foil that you glue onto the instrument in the right places. A drum kit will need drumsticks as well. Below, you can see how I wrapped pencils in foil and taped them up, making sure the wire is touching a good amount of the foil.
 
 --- task ---
 Take each of your F-F jumper wires and remove **one** of the connectors by pulling it off the end. It might take a little strength to remove it. You’re going to use the exposed end by attaching it to your instrument’s contacts using tape. 
