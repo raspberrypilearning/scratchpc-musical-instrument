@@ -19,7 +19,7 @@ Open a blank project in Scratch and add the Raspberry Pi `Simple Electronics`{:c
 --- /task ---
 
 --- task ---
-For each of the GP pins you have connected, add a simple block of code that activates when the button is pressed, and plays the required sound.
+For each of the general purpose (GP) pins you have connected, add a simple block of code that activates when the button is pressed, and plays the required sound.
 
 The most basic code required to have a playable music instrument is this:
 
