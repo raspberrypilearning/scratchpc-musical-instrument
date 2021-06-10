@@ -10,7 +10,7 @@ Take each one of the jumper wires connected to your instrument and attach them t
 ![The Raspberry Pi pinout shows the forty GPIO pins laid out with the odd numbered pins on the left and even pins on the right.](images/GPIO-Pinout-Diagram-2.png)
 --- /task ---
 
-Now that your instrument is wired up to the Raspberry Pi, you need to write some code to make it work. The most basic version of the instrument is very easy to program, allowing you lots of options for customizing what happens on screen and the sounds your instrument will make.
+Now that your instrument is wired up to the Raspberry Pi, you need to write some code to make it work. The most basic version of the instrument is very easy to program, allowing you lots of options for customising what happens on screen and the sounds your instrument will make.
 
 --- task ---
 Open a blank project in Scratch and add the Raspberry Pi `Simple Electronics`{:class="block3extensions"} extension to your project.
@@ -29,7 +29,7 @@ Start sound [Low Tom v]
 ```
 --- /task ---
 
-Whether you use a different sprite for each contact or a single sprite with all of your code on it doesn't matter, unless you want to do something interesting on the screen. In the drum kit project, the sprites change costume when you strike each drum. In the violin project, there is no screen component (but there easily could be!)
+You can use a different sprite for each contact or a single sprite with all of your code on — it doesn't matter unless you want to do something interesting on the screen. In the drum kit project, the sprites change costume when you strike each drum. In the violin project, there is no screen component (but there easily could be!)
 
 --- task ---
 Have fun playing your instrument! 
