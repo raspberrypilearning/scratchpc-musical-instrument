@@ -7,7 +7,7 @@ The first step in making a musical instrument is to think about what kind of ins
 Your instrument could be based on 'buttons' like the ones you used in the challenge projects; you might use actual buttons, or you could use any sort of conductive contacts that will close a circuit (such as two pieces of aluminium foil). 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-An easy way to make a lot of buttons that are all interactive is to use whatever item the player uses (for example, a bow, pick, or drumstick) as the **common ground** contact for all the circuits. That way, whenever the player touches the instrument with the item, this will close an open circuit and trigger a set event. An advantage of this approach is that you only need to wire up one ground pin (or maybe two) for your whole project, minimising the number of wires you need to use!
+An easy way to make a lot of buttons that are all interactive is to use whatever item the player uses (for example, a bow, pick, or drumstick) as the <span style="color: #0faeb0">common ground</span> contact for all the circuits. That way, whenever the player touches the instrument with the item, this will close an open circuit and trigger a set event. An advantage of this approach is that you only need to wire up one ground pin (or maybe two) for your whole project, minimising the number of wires you need to use!
 </p>
 
 In this example, I’ll be making a drum kit. I chose a drum kit because it’s really easy to make the drumsticks act as the ground contacts, which the player uses to make the sounds. That way, whenever a drum — any drum — is touched with a drumstick, that ciruit will be closed and that drum sound will be triggered.
