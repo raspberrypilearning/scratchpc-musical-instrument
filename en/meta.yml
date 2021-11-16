@@ -9,10 +9,13 @@ steps:
   - title: Introduction
   - title: Make your instrument
   - title: Connect and code your instrument
+    completion: engaged 
   - title: Reflect
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
+    completion: internal        
   - title: What next?
+    completion: external  
