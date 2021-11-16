@@ -2,8 +2,8 @@ title: Make a musical instrument
 hero_image: images/banner.png
 description: Make a musical instrument with Scratch and a Raspberry Pi
 version: 4
-listed: false
-copyedit: false
+listed: true
+copyedit: true
 last_tested: "2021-03-23"
 steps:
   - title: Introduction
