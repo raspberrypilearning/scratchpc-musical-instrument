@@ -35,7 +35,7 @@ title: What you will need
 ### Hardware
 
 + A Raspberry Pi computer
-+ At least 5 × F-F jumper wires
++ At least 5 × socket-to-socket jumper wires
 + Aluminium foil
 + Strong tape
 + Cardboard (or other drum-shaped items you can cover with foil)
