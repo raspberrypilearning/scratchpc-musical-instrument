@@ -2,9 +2,10 @@
 
 In this project, you’ll learn how to connect several different inputs to your GPIO pins to create a drum kit, or other musical instrument of your choice.
 
-You’ll connect several 'buttons' to your Raspberry Pi to act as inputs that will trigger sounds, then design a physical instrument, which you can use and play!
+You’ll connect several 'buttons' to your Raspberry Pi to act as inputs that will trigger sounds in Scratch, then design a physical instrument which you can use and play!
 
-### What you will make
+You will:
+
 
 A musical instrument can be anything that takes a user's input and turns it into sounds. You could make anything at all that does this! Consider all of the musical instruments you know and think about how you might copy the way they work using simple inputs.
 
@@ -27,11 +28,8 @@ In this example, the buttons on the guitar's neck choose the note, and touching 
 
 --- /no-print ---
 
+To complete this project you will need:
 
---- collapse ---
----
-title: What you will need
----
 ### Hardware
 
 + A Raspberry Pi computer
@@ -46,30 +44,12 @@ title: What you will need
 + Markers
 + Wire spool
 + Wire cutters
++ Conductive tape
 
 
 ### Software
++ Scratch 3 Desktop - **This project can not be completed using the online Scratch 3 editor**, and must be completed using a Raspberry Pi with the desktop version installed.
 
-+ Scratch 3 Desktop Version
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ How to connect multiple inputs to your Raspberry Pi
-+ How to create simple buttons using household items
-+ How to link inputs to trigger on-screen events and sounds
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/scratchpc-musical-instrument/print){:target="_blank"}.
 
---- /collapse ---
