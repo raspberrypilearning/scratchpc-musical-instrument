@@ -20,7 +20,7 @@ No. An LED is an output component that lights up when electricity flows through 
 
 --- feedback ---
 
-No, a jumper leads is used to connect components to each other or to pins on the Raspberry Pi.
+No, a jumper lead is used to connect components to each other or to pins on the Raspberry Pi.
 
 --- /feedback ---
 
