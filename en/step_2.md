@@ -32,7 +32,7 @@ To make my drum kit, I used some simple items I found in the workshop and just c
 Once the instrument body is made, you need to add foil contacts to it to enable the player to 'play' the instrument. One way is to use small pieces of foil that you glue onto the instrument in the right places. A drum kit needs drumsticks as well. Below, you can see how I wrapped pencils in foil and taped them up, making sure the wire is touching a good amount of the foil.
 
 --- task ---
-Take each of your F-F jumper wires and remove **one** of the connectors by pulling it off the end. It might take a little strength to remove it. You’re going to use the exposed end of the jumper wire by attaching it to your instrument’s contacts using tape. 
+Take each of your socket-socket jumper wires and remove **one** of the connectors by pulling it off the end. It might take a little strength to remove it. You’re going to use the exposed end of the jumper wire by attaching it to your instrument’s contacts using tape. 
 --- /task ---
 
 To make the drum kit here, I used aluminium foil to wrap a toilet roll, a roll of tape, a jar lid, and a piece of cardboard cut into a circle. Because the drums in the example are completely covered in conductive foil, I just poked the wires through the foil and then taped them to the side. 
@@ -56,7 +56,7 @@ Other kinds of instruments will need clever solutions to this problem; a cardboa
 The violin example shown previously uses a 'bow' made with conductive thread, and the guitar has a 'pick' which sets the volume to zero if it isn't touching the contact on the body of the instrument.
 
 --- task ---
-To make a drumstick, pull the end off an F-F wire and glue or tape it down firmly to your base item, with the free end hanging toward the user's grip. Wrap the base item in aluminium foil and glue or tape it down.
+To make a drumstick, pull the end off a socket-socket wire and glue or tape it down firmly to your base item, with the free end hanging toward the user's grip. Wrap the base item in aluminium foil and glue or tape it down.
 ![A stripped wire taped to the pencil, being wrapped in aluminium foil with the wire hanging out of one end](images/9-interaction-tool.jpg)
 --- /task ---
 
