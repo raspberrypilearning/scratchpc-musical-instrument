@@ -1,8 +1,4 @@
-## You will make
-
-Create a drum kit, or other musical instrument of your choice.
-
-You will:
+You will create a drum kit, or other musical instrument of your choice.
 
 A musical instrument can be anything that takes a user's input and turns it into sounds. You could make anything at all that does this! Consider all of the musical instruments you know and think about how you might copy the way they work using simple inputs.
 
