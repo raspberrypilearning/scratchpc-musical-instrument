@@ -7,7 +7,7 @@ meta_description: The fifth Raspberry Pi project in the Physical computing with 
 version: 4
 listed: true
 copyedit: true
-last_tested: '2021-03-23'
+last_tested: '2025-03-26'
 steps:
   - title: You will make
   - title: Make your instrument
@@ -23,5 +23,5 @@ steps:
       passing_score: 3
     completion:
       - external
-  - title: Upgrade your project
-  - title: What next?
+  - title: Challenge
+  - title: What can you do now?

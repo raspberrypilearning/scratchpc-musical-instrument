@@ -14,7 +14,7 @@ Now that your instrument is wired up to the Raspberry Pi, you need to write some
 
 --- task ---
 Open a blank project in Scratch and add the Raspberry Pi `Simple Electronics`{:class="block3extensions"} extension to your project.
-![The extension menu is the blue square at the bottom left of the Scratch workspace.](images/extension.jpg)
+![The extension menu is the blue square at the bottom left of the Scratch workspace.](images/extension-button.png)
 ![The Simple Electronics extension button.](images/GPIOext.jpg)
 --- /task ---
 
@@ -29,7 +29,7 @@ Start sound [Low Tom v]
 ```
 --- /task ---
 
-You can use a different sprite for each contact or a single sprite with all of your code on — it doesn't matter unless you want to do something interesting on the screen. In the drum kit project, the sprites change costume when you strike each drum. In the violin project, there is no screen component (but there easily could be!)
+You can use a different sprite for each contact or a single sprite with all of your code on — it doesn't matter unless you want to do something interesting on the screen. In the drum kit project, the sprites change costume when you strike each drum. 
 
 --- task ---
 Have fun playing your instrument! 
