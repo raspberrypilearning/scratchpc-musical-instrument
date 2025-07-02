@@ -1,10 +1,6 @@
-## You will make
+Make a drum kit, guitar, or other musical instrument of your choice!
 
-Create a drum kit, or other musical instrument of your choice.
-
-You will:
-
-A musical instrument can be anything that takes a user's input and turns it into sounds. You could make anything at all that does this! Consider all of the musical instruments you know and think about how you might copy the way they work using simple inputs.
+A musical instrument can be anything that takes a user's input and turns it into sounds. Consider all of the musical instruments you know and think about how you might copy the way they work using simple inputs.
 
 --- print-only ---
 This is what a finished drum kit looks like!
@@ -13,10 +9,6 @@ This is what a finished drum kit looks like!
 --- /print-only ---
 
 --- no-print ---
-
-### Get ideas 💭
-
-Here are some other musical instruments to give you inspiration:
 
 'Scratchivarius' Violin:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xlz1zBw-rSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -28,9 +20,9 @@ In this example, the buttons on the guitar's neck choose the note, and touching 
 
 --- /no-print ---
 
-To complete this project you will need:
+### You will need
 
-### Hardware
+#### Hardware
 
 + A Raspberry Pi computer
 + At least 5 × socket-to-socket jumper wires
@@ -47,9 +39,5 @@ To complete this project you will need:
 + Conductive tape
 
 
-### Software
+#### Software
 + Scratch 3 Desktop - **This project can not be completed using the online Scratch 3 editor**, and must be completed using a Raspberry Pi with the desktop version installed.
-
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/scratchpc-musical-instrument/print){:target="_blank"}.
-
