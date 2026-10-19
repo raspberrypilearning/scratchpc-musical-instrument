@@ -3,7 +3,9 @@ In this step, you will connect the wires from your musical instrument to the pin
 
 Now that you have finished making the physical components of your instrument, the next step is to link each separate contact to your Raspberry Pi’s GPIO pins. 
 
-In this example, I have connected the drums to Pins 2, 3, 4, 14, and 15 as they are the lowest numbers available and therefore easy to remember. Because my drumsticks are the **common ground** for all of my circuits, I have connected them to ground pins 6 and 9.  
+In this example, the drums connect to **GPIO2, GPIO3, GPIO4, GPIO14, and GPIO15**. On the 40-pin header, these are **physical pins 3, 5, 7, 8, and 10**, respectively. Use the GPIO numbers in your Scratch blocks.
+
+The drumsticks provide the **common ground** for the circuits and connect to **GND at physical pins 6 and 9**. These physical pin numbers are different from GPIO numbers.
 
 --- task ---
 Take each one of the jumper wires connected to your instrument and attach them to your Raspberry Pi using the GPIO pins. Use the pinout diagram here:
